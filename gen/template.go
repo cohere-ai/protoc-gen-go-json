@@ -68,7 +68,7 @@ package {{.GoPkg.Name}}
 import (
 	"bytes"
 
-	"github.com/golang/protobuf/jsonpb"
+	"github.com/gogo/protobuf/jsonpb"
 )
 `))
 
